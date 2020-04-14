@@ -41,6 +41,6 @@ public class Setting {
         sleep(1500);
         driver.findElement(By.xpath("//*[@class='buttons-wrapper buttons-wrapper_without-by-in-shop']/button//span[text()='Купить']")).click();
 
-
+        driver.quit();
     }
 }
