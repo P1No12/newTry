@@ -1,4 +1,4 @@
-package SCHOOL;
+package com.school;
 
 import org.checkerframework.checker.units.UnitsTools;
 import org.junit.runners.Parameterized;
